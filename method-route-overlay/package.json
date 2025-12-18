@@ -1,8 +1,8 @@
 {
   "name": "method-route-overlay",
-  "productName": "method-route-overlay",
+  "productName": "Method Route Overlay",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "An in-game overlay for Method's Route Planner",
   "main": ".vite/build/main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -11,10 +11,17 @@
     "publish": "electron-forge publish",
     "lint": "echo \"No linting configured\""
   },
-  "keywords": [],
+  "keywords": [
+    "method",
+    "route",
+    "planner",
+    "overlay",
+    "game",
+    "electron"
+  ],
   "author": {
-    "name": "google-labs-jules[bot]",
-    "email": "161369871+google-labs-jules[bot]@users.noreply.github.com"
+    "name": "Overlay User",
+    "email": "user@example.com"
   },
   "license": "MIT",
   "devDependencies": {
