@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "An in-game overlay for Method's Route Planner",
   "main": ".vite/build/main.js",
+  "type": "module",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
